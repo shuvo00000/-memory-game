@@ -4,9 +4,11 @@
 A Memory Matching Game designed with HTML, CSS, and JavaScript. This interactive game challenges players to match pairs of cards by flipping them. It’s simple, engaging, and perfect for casual gamers and memory training.
 
 ![Initial game](https://github.com/user-attachments/assets/059d5d0e-1996-4c4c-bc8e-b1f43c3165ad)
+
 *Figure 1: Initial game setup with cards face down*
 
 ![Matching cards](https://github.com/user-attachments/assets/6b9cf8f8-bd02-4431-a30c-0f07b331a6a5)
+
 *Figure 2: Matching cards and scoring system in action*
 
 ---
