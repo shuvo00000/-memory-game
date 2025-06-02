@@ -13,7 +13,7 @@ A Memory Matching Game designed with HTML, CSS, and JavaScript. This interactive
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 1. [Introduction](#introduction)  
 2. [Features](#features)  
@@ -95,7 +95,7 @@ project-folder/
 └── README.md
 ```
 
-## 🔧 Key Functions
+## Key Functions
 
 - `loadPlayerInfo()` – Loads the player's name and preferences from local storage.  
 - `renderGameBoard()` – Renders the game board with shuffled cards.  
@@ -206,7 +206,7 @@ project-folder/
 
 Have suggestions or want to contribute?
 
-- 📧 Email: [shuvo22333595@gmail.com](mailto:shuvo22333595@gmail.com)
+- Email: [shuvo22333595@gmail.com](mailto:shuvo22333595@gmail.com)
 
 ---
 
