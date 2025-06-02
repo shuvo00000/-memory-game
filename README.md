@@ -55,7 +55,7 @@ The Memory Game is a browser-based card-matching game where players flip cards t
 
 ### 2. Download & Extract
 
-- Download the project as a ZIP from [OneDrive Link](https://1drv.ms/u/s!AnovKndmfXOpgfY_0Fq4MMHH5Ldk7g?e=ddw0Wv)
+- Download the project as a ZIP 
 - Extract it to your chosen directory
 
 ---
